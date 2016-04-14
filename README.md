@@ -1,6 +1,8 @@
 # java-lasers 
 "Belegen Sie alle Felder mit Lichtstrahlen, ohne dass sich die Strahlen kreuzen"
 
+[Gliffy](http://www.gliffy.com/go/publish/10419471)
+
 ### Kanban/Storyboard:
 [![Backlog](https://badge.waffle.io/schulkrams/java-lasers.svg?label=backlog&title=Backlog)](http://waffle.io/schulkrams/java-lasers) 
 [![Ready](https://badge.waffle.io/schulkrams/java-lasers.svg?label=ready&title=Ready)](http://waffle.io/schulkrams/java-lasers) 
